@@ -37,7 +37,7 @@
 ### Software learning and working on
 
 <div style={flex_direction='row'}>
-  <img src="https://skillicons.dev/icons?i=git,figma,github,androidstudio,anaconda,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,figma,github,androidstudio,anaconda,jenkins,vscode" />
   <img width="48px" src="https://www.bestnetsoft.com/wp-content/uploads/2024/04/PyCharm_icon.png" alt="PyCharm">
   <img width="48px" src="https://www.helenjoscott.com/wp-content/uploads/2020/09/1200px-IntelliJ_IDEA_Logo.png" alt="IntelliJ IDEA">
 </div>
